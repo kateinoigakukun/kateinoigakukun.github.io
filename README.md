@@ -1,5 +1,3 @@
-# kateinoigakukun
-
 ## Profile
 
 Yuta Saito
