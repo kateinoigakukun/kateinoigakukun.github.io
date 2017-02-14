@@ -4,7 +4,7 @@ Yuta Saito
 
 16歳 早稲田大学高等学院 １年
 
-## Language
+## Languages
 
 Swift/Ruby
 
