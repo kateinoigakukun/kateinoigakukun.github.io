@@ -18,7 +18,7 @@ Github [@kateinoigakukun](https://github.com/kateinoigakukun)
 
 ### IBLinter
 
- https://github.com/kateinoigakukun/IBLinter
+ [kateinoigakukun/IBLinter](https://github.com/kateinoigakukun/IBLinter)
 
 
 ### 残高マネージャー for 図書カードNEXT
