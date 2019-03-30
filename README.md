@@ -2,7 +2,7 @@
 
 Yuta Saito
 
-18歳 早稲田大学高等学院 3年
+18歳 早稲田大学 基幹理工学部 学系Ⅲ
 
 ## Languages
 
@@ -33,4 +33,5 @@ Github [@kateinoigakukun](https://github.com/kateinoigakukun)
 
 ## Talks
 
-- [コンパイラから紐解くSwift method dispatch](https://speakerdeck.com/kateinoigakukun/konpairakaraniu-jie-kuswift-method-dispatch-1) (iOSDC 2018)
+- [コンパイラから紐解くSwift method dispatch](https://speakerdeck.com/kateinoigakukun/konpairakaraniu-jie-kuswift-method-dispatch-1) ([iOSDC 2018](https://fortee.jp/iosdc-japan-2018/proposal/1056b7c9-d1ab-4c66-b6a7-e37254b969ee))
+- [Swift Type Metadata](https://speakerdeck.com/kateinoigakukun/swift-type-metadata) ([try! Swift 2019](https://www.tryswift.co/events/2019/tokyo/jp/#metadata))
