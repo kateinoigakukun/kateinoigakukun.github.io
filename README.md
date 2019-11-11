@@ -2,7 +2,7 @@
 
 Yuta Saito
 
-18歳 早稲田大学 基幹理工学部 学系Ⅲ
+19歳 早稲田大学 基幹理工学部 学系Ⅲ
 
 ## Languages
 
@@ -45,3 +45,6 @@ A smart stubbing system for Swift
 
 <a href="https://itunes.apple.com/us/app/alphannict/id1200301433?mt=8" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/ja-jp/appstore-lrg.svg) no-repeat;width:135px;height:40px;background-size:contain;"></a>
 
+## Sponsored by
+
+<a href=https://www.macstadium.com><img src=https://uploads-ssl.webflow.com/5ac3c046c82724970fc60918/5c019d917bba312af7553b49_MacStadium-developerlogo.png width=150px /></a>
