@@ -22,6 +22,10 @@
 
 ## 2020
 
+- Contributions for LLVM Project
+    - [⚙ D71823 Support Swift calling convention for WebAssembly targets](https://reviews.llvm.org/D71823)
+    - [⚙ D76049 [WebAssembly] Support swiftself and swifterror for WebAssembly target](https://reviews.llvm.org/D76049)
+
 - [kateinoigakukun/wasminspect: An interactive debugger for WebAssembly](https://github.com/kateinoigakukun/wasminspect)
     - Blog: [WebAssembly向けのデバッガを開発しました - kateinoigakukunのブログ](https://kateinoigakukun.hatenablog.com/entry/2020/02/29/134510)
 - [kateinoigakukun/swift-indexstore: SwiftIndexStore is a IndexStore reader library for Swift.](https://github.com/kateinoigakukun/swift-indexstore)
@@ -40,8 +44,9 @@
 
 ## 2021
 
+- Contributions for LLVM Project
+    - [⚙ D96659 [WebAssembly] Add new relocation for location relative data](https://reviews.llvm.org/D96659)
 - [kateinoigakukun/IBCodeGen: A tool to transition from Interface Builder to Swift code](https://github.com/kateinoigakukun/IBCodeGen/)
-
 - [kateinoigakukun/mull-xctest: Experimental mutation testing tool for Swift and XCTest powered by mull](https://github.com/kateinoigakukun/mull-xctest)
 
 - [kateinoigakukun/wasminspect-agent.js: A debugger agent of wasminspect for JavaScript host environment.](https://github.com/kateinoigakukun/wasminspect-agent.js)
