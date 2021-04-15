@@ -2,9 +2,9 @@
 
 Yuta Saito
 
-- :student: Undergraduate student - Computer Science and Engineering
-- :man_technologist: OSS contributor - [Swift](https://github.com/apple/swift), [LLVM](http://llvm.org/) and etc.
-- :wrench: Co-maintainer of [SwiftWasm](http://github.com/swiftwasm/)
+- 👨‍🎓 Undergraduate student - Computer Science and Engineering
+- 👨‍💻 OSS contributor - [Swift](https://github.com/apple/swift), [LLVM](http://llvm.org/) and etc.
+- 🔧 Co-maintainer of [SwiftWasm](http://github.com/swiftwasm/)
 
 
 ## Interests
@@ -15,10 +15,14 @@ Yuta Saito
 - Compiler
 
 
-## Contact
+## Social Links
 
 - [Twitter: @kateinoigakukun](http://twitter.com/kateinoigakukun)
+- [GitHub](https://github.com/kateinoigakukun)
 - [LinkedIn](https://www.linkedin.com/in/kateinoigakukun)
+- [Speaker Deck](https://speakerdeck.com/kateinoigakukun)
+- [Blog (ja)](https://kateinoigakukun.hatenablog.com/)
+- [Blog (en)](https://medium.com/@kateinoigakukun)
 
 ## Talks
 
@@ -27,3 +31,14 @@ Yuta Saito
 
 - [Porting Swift to WebAssembly](https://speakerdeck.com/kateinoigakukun/porting-swift-to-webassembly) ([WebAssembly Live! Extended](https://www.webassembly.live/)]
 
+- [More talks are available on Speaker Deck](https://speakerdeck.com/kateinoigakukun)
+
+
+## Products
+
+- [IBDecodable/IBLinter - A linter tool for Interface Builder](https://github.com/IBDecodable/IBLinter) (Original Author)
+- [kateinoigakukun/StubKit - A smart stubbing system for Swift](https://github.com/kateinoigakukun/StubKit)
+
+- [kateinoigakukun/wasminspect - An interactive debugger for WebAssembly](https://github.com/kateinoigakukun/wasminspect)
+- [swiftwasm/JavaScriptKit - Swift framework to interact with JavaScript through WebAssembly](https://github.com/swiftwasm/JavaScriptKit) (Original Author)
+- [More Products...](./Products.md)
